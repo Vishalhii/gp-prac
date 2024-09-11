@@ -63,7 +63,8 @@ Vector3(0, 1, 0));
         } 
 private void Form1_Paint(object sender, PaintEventArgs e) 
 { 
-} 
-} 
-} 
 Render();
+} 
+} 
+} 
+
